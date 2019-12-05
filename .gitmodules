@@ -1,0 +1,3 @@
+[submodule "discord-bot-base"]
+	path = discord-bot-base
+	url = https://github.com/killian-dtn/discord-bot-base.git
